@@ -58,3 +58,5 @@ out.printlist(words.get_by_last_syllable("de"))
 print(words.get_syllables("azalea"))
 
 ```
+
+È anche possibile ottenere direttamente il dizionario che si preferisce per poterlo utilizzare. Ogni dizionario è salvato in formato .pickle così da poter essere caricato in qualunque momento.
