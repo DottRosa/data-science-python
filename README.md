@@ -36,10 +36,10 @@ Il programma si collega a tutti i siti specificati nel file di testo sites.txt, 
 ## dictionary
 Con questo progetto voglio creare un dizionario delle parole italiane (più di 600.000 parole). Tra le varie risorse sarà possibile accedere ai seguenti dizionari python:
 
-...Chiave: la parola stessa; Valore: la lunghezza della parola
-...Chiave: la lunghezza delle parole; Valore: array di parole della medesima lunghezza
-...Chiave: la parola stessa; Valore: dizionario contente la lunghezza e la parola divisa in sillabe
-...Chiave: il numero di sillabe delle parole; Valore: array di parole che hanno lo stesso numero di sillabe
+* Chiave: la parola stessa; Valore: la lunghezza della parola
+* Chiave: la lunghezza delle parole; Valore: array di parole della medesima lunghezza
+* Chiave: la parola stessa; Valore: dizionario contente la lunghezza e la parola divisa in sillabe
+* Chiave: il numero di sillabe delle parole; Valore: array di parole che hanno lo stesso numero di sillabe
 
 All'interno della libreria verranno fornite diverse funzioni atte all'ottenimento di particolari informazioni riguardo le parole (per esempio ottenere tutte le parole la cui ultima sillaba è 'de').
 Esempio di codice:
